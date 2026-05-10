@@ -61,3 +61,7 @@ Any other attributes are forwarded to the `<img>` element.
 ## License
 
 MIT
+
+---
+
+Made by [DNSK](https://dnsk.work), a [UI/UX agency](https://dnsk.work).
