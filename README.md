@@ -64,4 +64,4 @@ MIT
 
 ---
 
-Made by [DNSK](https://dnsk.work), a [UI/UX agency](https://dnsk.work).
+Made by [DNSK.WORK](https://dnsk.work), a [UI/UX agency](https://dnsk.work).
