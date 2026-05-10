@@ -1,5 +1,5 @@
 {
-    "name": "dnsk/twill-picture",
+    "name": "dnsk-work/twill-picture",
     "description": "Progressive blur-up <x-twill-picture::picture> Blade component for Twill + Glide (or any query-param image transform service)",
     "type": "library",
     "license": "MIT",
@@ -10,13 +10,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Dnsk\\TwillPicture\\": "src/"
+            "DnskWork\\TwillPicture\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Dnsk\\TwillPicture\\TwillPictureServiceProvider"
+                "DnskWork\\TwillPicture\\TwillPictureServiceProvider"
             ]
         }
     },

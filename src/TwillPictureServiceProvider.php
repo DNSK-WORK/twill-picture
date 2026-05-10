@@ -1,6 +1,6 @@
 <?php
 
-namespace Dnsk\TwillPicture;
+namespace DnskWork\TwillPicture;
 
 use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;

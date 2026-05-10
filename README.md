@@ -7,7 +7,7 @@ Works with any image service that accepts `w`, `q`, and `fm` as query parameters
 ## Installation
 
 ```bash
-composer require dnsk/twill-picture
+composer require dnsk-work/twill-picture
 ```
 
 The component is auto-registered as `<x-twill-picture::picture>`.
